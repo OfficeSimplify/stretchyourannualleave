@@ -1,0 +1,35 @@
+html, body {
+  height: 100%;
+  font-family: 'Quicksand';
+  margin: 0;
+  padding: 0;
+  color: #372750;
+  font-size: 25px;
+}
+
+h1 {
+  font-size: 60px;
+  margin: 0 0 0.75rem 0;
+  color: #443c7b;
+}
+
+h2{
+  font-size: 35px;
+  margin: 0;
+}
+p{
+  margin: 0;
+}
+
+.call-to-action{
+  border: 1px solid #ddd;
+  padding: 2rem;
+  border-radius: 0.7rem;
+  background-color: #fbfbfb;
+  .title {
+    font-size: 30px;
+  }
+  .description{
+    font-size: 18px;
+  }
+}
